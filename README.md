@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nesemenpolkov
 - 👀 I’m interested in coding, data science and machine learning.
-- 🌱 I’m currently learning flask, ML algorithms and trying to get into NNs :)
+- 🌱 I’m currently writing on FastAPI, Torch and HF transformers :)
 - 💞️ I’m looking to collaborate on web-applications and something also interesting and usefull.
 - 📫 How to reach me in telegram: @nesemenpolkov <3
 
